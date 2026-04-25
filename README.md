@@ -22,4 +22,4 @@ No cloud accounts. No subscriptions. No data leaving your machine.
 → [bidemiadeoye.github.io](https://bidemiadeoye.github.io)
 
 ## Skills & Tools
-Python · Power BI · R · SQL · HL7 · REDCap · Jira · Smartsheet · Microsoft Azure · PMP Certified
+Python · Power BI · R · SQL · HL7 · REDCap · Jira · Smartsheet · Microsoft Azure · DHIS2 · SORMAS · PMP Certified
